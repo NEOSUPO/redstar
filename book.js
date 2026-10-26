@@ -79,7 +79,7 @@ function projectPairs(plan) {
   const pairs = [
     ["model", "one_spreadsheet_per_project"],
     ["name", plan.name || "NewPlan"],
-    ["app", "NEOSUPO★STAR β3"],
+    ["app", "NEOSUPO★STAR β4"],
     ["note", "この1冊が1プロジェクト。機器・配置・図面はこのブックに置く。"],
     ["active_drawing_id", plan.id],
   ];

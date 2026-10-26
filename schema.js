@@ -1,4 +1,4 @@
-export const APP_NAME = "NEOSUPO★STAR β3";
+export const APP_NAME = "NEOSUPO★STAR β4";
 export const CELL_MM = 100;
 
 export const SHEET = {
